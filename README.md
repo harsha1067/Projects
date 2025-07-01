@@ -20,7 +20,7 @@ loan-default-prediction/
 ## Installation
 
 ```bash
-git clone https://github.com/<harsha1067>/lSoan-default-prediction.git
+git clone https://github.com/<harsha1067>/loan-default-prediction.git
 cd loan-default-prediction
 pip install -r requirements.txt
 
